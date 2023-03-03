@@ -4,17 +4,21 @@
 
 ![Badge](https://i.pinimg.com/736x/6c/53/a7/6c53a76072f178131da153896ae6f971.jpg)
 
-Table of contents:
-===============
-<!--ts --->
-    * [Introduction](#basic-of-nodejs)
-    * [Features](#features)
-    * [Installation](#installation)
-    * [Running](#running)
-    * [Tecnologies](#🛠-tecnologies)
-    * [Author](#author)
-<!--te --->
+---
+## Table of contents:
 
+- [Introduction](#basic-of-nodejs)
+
+- [Features](#features)
+
+- [Installation](#installation)
+
+- [Running](#running)
+
+- [Tecnologies](#🛠-tecnologies)
+
+- [Author](#author)
+---
 ### Features
 
 - [x] Express.js
